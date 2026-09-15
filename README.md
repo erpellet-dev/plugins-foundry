@@ -8,7 +8,7 @@ Marketplace version: 1.0.0
 
 | Plugin | Version | Skills | MCP servers | Scripts | Reference docs | License |
 | --- | --- | --- | --- | --- | --- | --- |
-| revealjs | 1.0.0 | `revealjs` — build Reveal.js presentations (themes, layouts, animations, speaker notes)<br>`revealjs-setup` — idempotent one-time/on-update dependency installer | — | `create-presentation.js`, `edit-html.js`, `check-overflow.js`, `check-charts.js`, `setup.js` | `advanced-features.md`, `charts.md`, `base-styles.css` | MIT |
+| revealjs | 1.1.0 | `revealjs` — build Reveal.js presentations (themes, layouts, animations, speaker notes)<br>`revealjs-setup` — idempotent one-time/on-update dependency installer | — | `create-presentation.js`, `edit-html.js`, `check-overflow.js`, `check-charts.js`, `setup.js` | `advanced-features.md`, `charts.md`, `base-styles.css` | MIT |
 
 ### revealjs
 
