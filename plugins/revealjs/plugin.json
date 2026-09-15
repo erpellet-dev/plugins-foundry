@@ -11,6 +11,7 @@
   "license": "MIT",
   "keywords": ["reveal.js", "presentation", "slides", "html", "slideshow"],
   "skills": [
-    "./skills/revealjs"
+    "./skills/revealjs",
+    "./skills/revealjs-setup"
   ]
 }
