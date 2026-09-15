@@ -1,0 +1,22 @@
+{
+  "name": "revealjs",
+  "version": "1.0.0",
+  "description": "GitHub Copilot agent plugin for making reveal.js presentations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erpellet-dev/agent-foundry.git"
+  },
+  "keywords": [
+    "reveal",
+    "reveal.js",
+    "presentation",
+    "html-presentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "decktape": "github:ryanbbrown/decktape",
+    "playwright": "^1.57.0"
+  }
+}

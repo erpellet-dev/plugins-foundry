@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/marketplace.schema.json",
+  "name": "agent-foundry",
+  "owner": {
+    "name": "erpellet-dev"
+  },
+  "metadata": {
+    "description": "A curated marketplace of practical GitHub Copilot agent plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "revealjs",
+      "source": "./plugins/revealjs",
+      "description": "Create polished, professional reveal.js presentations with themes, multi-column layouts, code highlighting, animations, speaker notes, and custom styling.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["reveal.js", "presentation", "slides", "html", "slideshow"],
+      "category": "productivity",
+      "tags": ["presentations", "slides", "reveal.js"]
+    }
+  ]
+}

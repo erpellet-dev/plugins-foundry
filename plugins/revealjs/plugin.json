@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "revealjs",
+  "description": "Create polished, professional reveal.js presentations with themes, multi-column layouts, code highlighting, animations, speaker notes, and custom styling. Generates HTML and CSS with no build step required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Brown"
+  },
+  "homepage": "https://github.com/erpellet-dev/agent-foundry",
+  "repository": "https://github.com/erpellet-dev/agent-foundry",
+  "license": "MIT",
+  "keywords": ["reveal.js", "presentation", "slides", "html", "slideshow"],
+  "skills": [
+    "./skills/revealjs"
+  ]
+}

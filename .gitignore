@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+presentations/
+.DS_Store
+*.swp
+*.swo
